@@ -5,7 +5,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdev268"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdev268)](https://github.com/speackerdev/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gdev268)](https://git.io/streak-stats)
 
 <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=gdev268&theme=onedark&row=2&column=3)](https://github.com/speackerdev/github-profile-trophy)
